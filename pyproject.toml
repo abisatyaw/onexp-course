@@ -1,0 +1,15 @@
+[project]
+name = "onexp-course"
+version = "1.0"
+description = "Course on Django & HTMX Stack"
+authors = [
+    {name = "abisatyaw", email = "abisatya90@gmail.com"},
+]
+dependencies = []
+requires-python = ">=3.11"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
